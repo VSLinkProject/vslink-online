@@ -175,7 +175,9 @@
 		hangDoi = new HangDoi(async () => (await napCauHinh()).meo_api, localStorage, (t) => (gui = t));
 		void hangDoi.gui(); // gui not dong con ton tu buoi truoc
 		napVideoMau().then((t) => (tepVideo = t));
-		giaLap = page.url.searchParams.has('gia-lap');
+		// che do gia lap chi chay tren may (localhost), web that bo qua
+		const trenMay = ['localhost', '127.0.0.1'].includes(location.hostname);
+		giaLap = trenMay && page.url.searchParams.has('gia-lap');
 		quanLy = page.url.searchParams.has('quan-ly');
 		const g = Number(page.url.searchParams.get('giay'));
 		if (giaLap && Number.isInteger(g) && g > 0) giayThu = g;

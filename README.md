@@ -21,7 +21,7 @@ Phiếu đồng ý và các câu hỏi khảo sát nằm trong Google Form.
 
 Mỗi sự kiện là một dòng gắn với mã người tham gia: câu trả lời bài nhận diện, từng lần ký (hạng của từ đúng, top 5, mức đánh giá, độ dài), thời gian từng phần, thiết bị, tốc độ khung hình, lỗi camera / mô hình. **Không** có tên, email, hình ảnh hay toạ độ.
 
-Dữ liệu được lưu tạm trên máy rồi tự gửi qua Cloudflare Worker về Google Sheet (tab **Thực nghiệm**). Nhóm xem trạng thái gửi và tải CSV dự phòng tại `/thuc-nghiem/?quan-ly=1`.
+Dữ liệu được lưu tạm trên máy rồi tự gửi qua Cloudflare Worker về Google Sheet (tab **Thực nghiệm**).
 
 ## Chạy trên máy
 
@@ -32,7 +32,7 @@ npm ci
 npm run dev
 ```
 
-Mở `http://localhost:5173/`. Thử nhanh không cần camera: `http://localhost:5173/?gia-lap=1&giay=10`.
+Mở `http://localhost:5173/`.
 
 Kiểm thử:
 
