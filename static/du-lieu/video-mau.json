@@ -1,0 +1,2348 @@
+{
+ "phien_ban": 1,
+ "ngay": "2026-10-05",
+ "tu": {
+  "0": {
+   "trang_thai": "cho"
+  },
+  "1": {
+   "trang_thai": "cho"
+  },
+  "2": {
+   "trang_thai": "cho"
+  },
+  "3": {
+   "trang_thai": "cho"
+  },
+  "4": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00368T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W00368T",
+    "p": 0.97,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W00368N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W00368N",
+     "p": 0.97,
+     "hang": 1
+    }
+   ]
+  },
+  "5": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00370N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W00370N",
+    "p": 0.896,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W00370T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W00370T",
+     "p": 0.866,
+     "hang": 1
+    },
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W00370B.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "bac",
+     "ma": "W00370B",
+     "p": 0.862,
+     "hang": 1
+    }
+   ]
+  },
+  "6": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00369T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W00369T",
+    "p": 0.915,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W00369N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W00369N",
+     "p": 0.909,
+     "hang": 1
+    }
+   ]
+  },
+  "7": {
+   "trang_thai": "cho"
+  },
+  "8": {
+   "trang_thai": "cho"
+  },
+  "9": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00096.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00096",
+    "p": 0.946,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "10": {
+   "trang_thai": "cho"
+  },
+  "11": {
+   "trang_thai": "cho"
+  },
+  "12": {
+   "trang_thai": "cho"
+  },
+  "13": {
+   "trang_thai": "cho"
+  },
+  "14": {
+   "trang_thai": "cho"
+  },
+  "15": {
+   "trang_thai": "cho"
+  },
+  "16": {
+   "trang_thai": "cho"
+  },
+  "17": {
+   "trang_thai": "cho"
+  },
+  "18": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00279.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00279",
+    "p": 0.65,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "19": {
+   "trang_thai": "cho"
+  },
+  "20": {
+   "trang_thai": "cho"
+  },
+  "21": {
+   "trang_thai": "cho"
+  },
+  "22": {
+   "trang_thai": "cho"
+  },
+  "23": {
+   "trang_thai": "cho"
+  },
+  "24": {
+   "trang_thai": "cho"
+  },
+  "25": {
+   "trang_thai": "cho"
+  },
+  "26": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00348.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00348",
+    "p": 0.91,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "27": {
+   "trang_thai": "cho"
+  },
+  "28": {
+   "trang_thai": "cho"
+  },
+  "29": {
+   "trang_thai": "cho"
+  },
+  "30": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01008.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01008",
+    "p": 0.923,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "31": {
+   "trang_thai": "cho"
+  },
+  "32": {
+   "trang_thai": "cho"
+  },
+  "33": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00325.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00325",
+    "p": 0.768,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "34": {
+   "trang_thai": "cho"
+  },
+  "35": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00415.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00415",
+    "p": 0.854,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "36": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W004151.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W004151",
+    "p": 0.948,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "37": {
+   "trang_thai": "cho"
+  },
+  "38": {
+   "trang_thai": "cho"
+  },
+  "39": {
+   "trang_thai": "cho"
+  },
+  "40": {
+   "trang_thai": "cho"
+  },
+  "41": {
+   "trang_thai": "cho"
+  },
+  "42": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00506.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00506",
+    "p": 0.952,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "43": {
+   "trang_thai": "cho"
+  },
+  "44": {
+   "trang_thai": "cho"
+  },
+  "45": {
+   "trang_thai": "cho"
+  },
+  "46": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00501.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00501",
+    "p": 0.815,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "47": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0178.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "D0178",
+    "p": 0.921,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "48": {
+   "trang_thai": "cho"
+  },
+  "49": {
+   "trang_thai": "cho"
+  },
+  "50": {
+   "trang_thai": "cho"
+  },
+  "51": {
+   "trang_thai": "cho"
+  },
+  "52": {
+   "trang_thai": "cho"
+  },
+  "53": {
+   "trang_thai": "cho"
+  },
+  "54": {
+   "trang_thai": "cho"
+  },
+  "55": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00649N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W00649N",
+    "p": 0.966,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W00649T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W00649T",
+     "p": 0.965,
+     "hang": 1
+    }
+   ]
+  },
+  "56": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00735N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W00735N",
+    "p": 0.948,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W00735T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W00735T",
+     "p": 0.948,
+     "hang": 1
+    }
+   ]
+  },
+  "57": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00739N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W00739N",
+    "p": 0.945,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W00739T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W00739T",
+     "p": 0.944,
+     "hang": 1
+    }
+   ]
+  },
+  "58": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00753.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00753",
+    "p": 0.954,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "59": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00759.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00759",
+    "p": 0.829,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "60": {
+   "trang_thai": "cho"
+  },
+  "61": {
+   "trang_thai": "cho"
+  },
+  "62": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00772T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W00772T",
+    "p": 0.947,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W00772N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W00772N",
+     "p": 0.943,
+     "hang": 1
+    }
+   ]
+  },
+  "63": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00787N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W00787N",
+    "p": 0.939,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "64": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00796.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00796",
+    "p": 0.878,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "65": {
+   "trang_thai": "cho"
+  },
+  "66": {
+   "trang_thai": "cho"
+  },
+  "67": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00802.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00802",
+    "p": 0.936,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "68": {
+   "trang_thai": "cho"
+  },
+  "69": {
+   "trang_thai": "cho"
+  },
+  "70": {
+   "trang_thai": "cho"
+  },
+  "71": {
+   "trang_thai": "cho"
+  },
+  "72": {
+   "trang_thai": "cho"
+  },
+  "73": {
+   "trang_thai": "cho"
+  },
+  "74": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01740.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01740",
+    "p": 0.919,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "75": {
+   "trang_thai": "cho"
+  },
+  "76": {
+   "trang_thai": "cho"
+  },
+  "77": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W00028.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W00028",
+    "p": 0.897,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "78": {
+   "trang_thai": "cho"
+  },
+  "79": {
+   "trang_thai": "cho"
+  },
+  "80": {
+   "trang_thai": "cho"
+  },
+  "81": {
+   "trang_thai": "cho"
+  },
+  "82": {
+   "trang_thai": "cho"
+  },
+  "83": {
+   "trang_thai": "cho"
+  },
+  "84": {
+   "trang_thai": "cho"
+  },
+  "85": {
+   "trang_thai": "cho"
+  },
+  "86": {
+   "trang_thai": "cho"
+  },
+  "87": {
+   "trang_thai": "cho"
+  },
+  "88": {
+   "trang_thai": "cho"
+  },
+  "89": {
+   "trang_thai": "cho"
+  },
+  "90": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0095.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "D0095",
+    "p": 0.89,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "91": {
+   "trang_thai": "cho"
+  },
+  "92": {
+   "trang_thai": "cho"
+  },
+  "93": {
+   "trang_thai": "cho"
+  },
+  "94": {
+   "trang_thai": "cho"
+  },
+  "95": {
+   "trang_thai": "cho"
+  },
+  "96": {
+   "trang_thai": "cho"
+  },
+  "97": {
+   "trang_thai": "cho"
+  },
+  "98": {
+   "trang_thai": "cho"
+  },
+  "99": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01068.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01068",
+    "p": 0.858,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "100": {
+   "trang_thai": "cho"
+  },
+  "101": {
+   "trang_thai": "cho"
+  },
+  "102": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0271B.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "bac",
+    "ma": "D0271B",
+    "p": 0.698,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "103": {
+   "trang_thai": "cho"
+  },
+  "104": {
+   "trang_thai": "cho"
+  },
+  "105": {
+   "trang_thai": "cho"
+  },
+  "106": {
+   "trang_thai": "cho"
+  },
+  "107": {
+   "trang_thai": "cho"
+  },
+  "108": {
+   "trang_thai": "cho"
+  },
+  "109": {
+   "trang_thai": "cho"
+  },
+  "110": {
+   "trang_thai": "cho"
+  },
+  "111": {
+   "trang_thai": "cho"
+  },
+  "112": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01441.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01441",
+    "p": 0.94,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "113": {
+   "trang_thai": "cho"
+  },
+  "114": {
+   "trang_thai": "cho"
+  },
+  "115": {
+   "trang_thai": "cho"
+  },
+  "116": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01497N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W01497N",
+    "p": 0.952,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W01497T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W01497T",
+     "p": 0.939,
+     "hang": 1
+    }
+   ]
+  },
+  "117": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01498.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01498",
+    "p": 0.936,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "118": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01473B.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "bac",
+    "ma": "W01473B",
+    "p": 0.823,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W01473T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W01473T",
+     "p": 0.55,
+     "hang": 1
+    }
+   ]
+  },
+  "119": {
+   "trang_thai": "cho"
+  },
+  "120": {
+   "trang_thai": "cho"
+  },
+  "121": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01494.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01494",
+    "p": 0.873,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "122": {
+   "trang_thai": "cho"
+  },
+  "123": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01384T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W01384T",
+    "p": 0.962,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W01384N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W01384N",
+     "p": 0.961,
+     "hang": 1
+    }
+   ]
+  },
+  "124": {
+   "trang_thai": "cho"
+  },
+  "125": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01511.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01511",
+    "p": 0.603,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "126": {
+   "trang_thai": "cho"
+  },
+  "127": {
+   "trang_thai": "cho"
+  },
+  "128": {
+   "trang_thai": "cho"
+  },
+  "129": {
+   "trang_thai": "cho"
+  },
+  "130": {
+   "trang_thai": "cho"
+  },
+  "131": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01646.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01646",
+    "p": 0.744,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "132": {
+   "trang_thai": "cho"
+  },
+  "133": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01532.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01532",
+    "p": 0.945,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "134": {
+   "trang_thai": "cho"
+  },
+  "135": {
+   "trang_thai": "cho"
+  },
+  "136": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0173.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "D0173",
+    "p": 0.937,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "137": {
+   "trang_thai": "cho"
+  },
+  "138": {
+   "trang_thai": "cho"
+  },
+  "139": {
+   "trang_thai": "cho"
+  },
+  "140": {
+   "trang_thai": "cho"
+  },
+  "141": {
+   "trang_thai": "cho"
+  },
+  "142": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0165N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "D0165N",
+    "p": 0.842,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/D0165T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "D0165T",
+     "p": 0.842,
+     "hang": 1
+    }
+   ]
+  },
+  "143": {
+   "trang_thai": "cho"
+  },
+  "144": {
+   "trang_thai": "cho"
+  },
+  "145": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01767.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01767",
+    "p": 0.965,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "146": {
+   "trang_thai": "cho"
+  },
+  "147": {
+   "trang_thai": "cho"
+  },
+  "148": {
+   "trang_thai": "cho"
+  },
+  "149": {
+   "trang_thai": "cho"
+  },
+  "150": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0034.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "D0034",
+    "p": 0.902,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "151": {
+   "trang_thai": "cho"
+  },
+  "152": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0035T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "D0035T",
+    "p": 0.892,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/D0035N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "D0035N",
+     "p": 0.644,
+     "hang": 1
+    }
+   ]
+  },
+  "153": {
+   "trang_thai": "cho"
+  },
+  "154": {
+   "trang_thai": "cho"
+  },
+  "155": {
+   "trang_thai": "cho"
+  },
+  "156": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01904.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01904",
+    "p": 0.768,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "157": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01743B.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "bac",
+    "ma": "W01743B",
+    "p": 0.945,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "158": {
+   "trang_thai": "cho"
+  },
+  "159": {
+   "trang_thai": "cho"
+  },
+  "160": {
+   "trang_thai": "cho"
+  },
+  "161": {
+   "trang_thai": "cho"
+  },
+  "162": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01924.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01924",
+    "p": 0.971,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "163": {
+   "trang_thai": "cho"
+  },
+  "164": {
+   "trang_thai": "cho"
+  },
+  "165": {
+   "trang_thai": "cho"
+  },
+  "166": {
+   "trang_thai": "cho"
+  },
+  "167": {
+   "trang_thai": "cho"
+  },
+  "168": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02266.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02266",
+    "p": 0.558,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "169": {
+   "trang_thai": "cho"
+  },
+  "170": {
+   "trang_thai": "cho"
+  },
+  "171": {
+   "trang_thai": "cho"
+  },
+  "172": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02137N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02137N",
+    "p": 0.885,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02137T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W02137T",
+     "p": 0.883,
+     "hang": 1
+    }
+   ]
+  },
+  "173": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02140T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W02140T",
+    "p": 0.899,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02140N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W02140N",
+     "p": 0.856,
+     "hang": 1
+    }
+   ]
+  },
+  "174": {
+   "trang_thai": "cho"
+  },
+  "175": {
+   "trang_thai": "cho"
+  },
+  "176": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02142N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02142N",
+    "p": 0.605,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "177": {
+   "trang_thai": "cho"
+  },
+  "178": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02133B.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "bac",
+    "ma": "W02133B",
+    "p": 0.713,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "179": {
+   "trang_thai": "cho"
+  },
+  "180": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0065N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "D0065N",
+    "p": 0.893,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/D0065T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "D0065T",
+     "p": 0.886,
+     "hang": 1
+    }
+   ]
+  },
+  "181": {
+   "trang_thai": "cho"
+  },
+  "182": {
+   "trang_thai": "cho"
+  },
+  "183": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02147.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02147",
+    "p": 0.885,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "184": {
+   "trang_thai": "cho"
+  },
+  "185": {
+   "trang_thai": "cho"
+  },
+  "186": {
+   "trang_thai": "cho"
+  },
+  "187": {
+   "trang_thai": "cho"
+  },
+  "188": {
+   "trang_thai": "cho"
+  },
+  "189": {
+   "trang_thai": "cho"
+  },
+  "190": {
+   "trang_thai": "cho"
+  },
+  "191": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02271.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02271",
+    "p": 0.575,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "192": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02272T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W02272T",
+    "p": 0.803,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02272N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W02272N",
+     "p": 0.801,
+     "hang": 1
+    }
+   ]
+  },
+  "193": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02269.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02269",
+    "p": 0.916,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "194": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02276.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02276",
+    "p": 0.931,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "195": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02275.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02275",
+    "p": 0.957,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "196": {
+   "trang_thai": "cho"
+  },
+  "197": {
+   "trang_thai": "cho"
+  },
+  "198": {
+   "trang_thai": "cho"
+  },
+  "199": {
+   "trang_thai": "cho"
+  },
+  "200": {
+   "trang_thai": "cho"
+  },
+  "201": {
+   "trang_thai": "cho"
+  },
+  "202": {
+   "trang_thai": "cho"
+  },
+  "203": {
+   "trang_thai": "cho"
+  },
+  "204": {
+   "trang_thai": "cho"
+  },
+  "205": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02264N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02264N",
+    "p": 0.946,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02264T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W02264T",
+     "p": 0.944,
+     "hang": 1
+    }
+   ]
+  },
+  "206": {
+   "trang_thai": "cho"
+  },
+  "207": {
+   "trang_thai": "cho"
+  },
+  "208": {
+   "trang_thai": "cho"
+  },
+  "209": {
+   "trang_thai": "cho"
+  },
+  "210": {
+   "trang_thai": "cho"
+  },
+  "211": {
+   "trang_thai": "cho"
+  },
+  "212": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02390.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02390",
+    "p": 0.743,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "213": {
+   "trang_thai": "cho"
+  },
+  "214": {
+   "trang_thai": "cho"
+  },
+  "215": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02328N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02328N",
+    "p": 0.942,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02328T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W02328T",
+     "p": 0.818,
+     "hang": 1
+    }
+   ]
+  },
+  "216": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02337N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02337N",
+    "p": 0.92,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "217": {
+   "trang_thai": "cho"
+  },
+  "218": {
+   "trang_thai": "cho"
+  },
+  "219": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02348.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02348",
+    "p": 0.96,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "220": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02343.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02343",
+    "p": 0.923,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "221": {
+   "trang_thai": "cho"
+  },
+  "222": {
+   "trang_thai": "cho"
+  },
+  "223": {
+   "trang_thai": "cho"
+  },
+  "224": {
+   "trang_thai": "cho"
+  },
+  "225": {
+   "trang_thai": "cho"
+  },
+  "226": {
+   "trang_thai": "cho"
+  },
+  "227": {
+   "trang_thai": "cho"
+  },
+  "228": {
+   "trang_thai": "cho"
+  },
+  "229": {
+   "trang_thai": "cho"
+  },
+  "230": {
+   "trang_thai": "cho"
+  },
+  "231": {
+   "trang_thai": "cho"
+  },
+  "232": {
+   "trang_thai": "cho"
+  },
+  "233": {
+   "trang_thai": "cho"
+  },
+  "234": {
+   "trang_thai": "cho"
+  },
+  "235": {
+   "trang_thai": "cho"
+  },
+  "236": {
+   "trang_thai": "cho"
+  },
+  "237": {
+   "trang_thai": "cho"
+  },
+  "238": {
+   "trang_thai": "cho"
+  },
+  "239": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02523.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02523",
+    "p": 0.68,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "240": {
+   "trang_thai": "cho"
+  },
+  "241": {
+   "trang_thai": "cho"
+  },
+  "242": {
+   "trang_thai": "cho"
+  },
+  "243": {
+   "trang_thai": "cho"
+  },
+  "244": {
+   "trang_thai": "cho"
+  },
+  "245": {
+   "trang_thai": "cho"
+  },
+  "246": {
+   "trang_thai": "cho"
+  },
+  "247": {
+   "trang_thai": "cho"
+  },
+  "248": {
+   "trang_thai": "cho"
+  },
+  "249": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02534.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02534",
+    "p": 0.928,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "250": {
+   "trang_thai": "cho"
+  },
+  "251": {
+   "trang_thai": "cho"
+  },
+  "252": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02696N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02696N",
+    "p": 0.962,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02696T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W02696T",
+     "p": 0.961,
+     "hang": 1
+    }
+   ]
+  },
+  "253": {
+   "trang_thai": "cho"
+  },
+  "254": {
+   "trang_thai": "cho"
+  },
+  "255": {
+   "trang_thai": "cho"
+  },
+  "256": {
+   "trang_thai": "cho"
+  },
+  "257": {
+   "trang_thai": "cho"
+  },
+  "258": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02725.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02725",
+    "p": 0.949,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "259": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02730.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02730",
+    "p": 0.929,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "260": {
+   "trang_thai": "cho"
+  },
+  "261": {
+   "trang_thai": "cho"
+  },
+  "262": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02732T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W02732T",
+    "p": 0.944,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02732N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W02732N",
+     "p": 0.944,
+     "hang": 1
+    },
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02732B.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "bac",
+     "ma": "W02732B",
+     "p": 0.594,
+     "hang": 1
+    }
+   ]
+  },
+  "263": {
+   "trang_thai": "cho"
+  },
+  "264": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02760.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02760",
+    "p": 0.758,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "265": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02737N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02737N",
+    "p": 0.929,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "266": {
+   "trang_thai": "cho"
+  },
+  "267": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02735.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02735",
+    "p": 0.939,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "268": {
+   "trang_thai": "cho"
+  },
+  "269": {
+   "trang_thai": "cho"
+  },
+  "270": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02788.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02788",
+    "p": 0.903,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "271": {
+   "trang_thai": "cho"
+  },
+  "272": {
+   "trang_thai": "cho"
+  },
+  "273": {
+   "trang_thai": "cho"
+  },
+  "274": {
+   "trang_thai": "cho"
+  },
+  "275": {
+   "trang_thai": "cho"
+  },
+  "276": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0413.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "D0413",
+    "p": 0.947,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W02887.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": null,
+     "ma": "W02887",
+     "p": 0.922,
+     "hang": 1
+    }
+   ]
+  },
+  "277": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02888.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02888",
+    "p": 0.912,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "278": {
+   "trang_thai": "cho"
+  },
+  "279": {
+   "trang_thai": "cho"
+  },
+  "280": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02951.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02951",
+    "p": 0.947,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "281": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02900.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02900",
+    "p": 0.946,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "282": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02918.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02918",
+    "p": 0.921,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "283": {
+   "trang_thai": "cho"
+  },
+  "284": {
+   "trang_thai": "cho"
+  },
+  "285": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03042N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W03042N",
+    "p": 0.948,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "286": {
+   "trang_thai": "cho"
+  },
+  "287": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03155.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W03155",
+    "p": 0.807,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "288": {
+   "trang_thai": "cho"
+  },
+  "289": {
+   "trang_thai": "cho"
+  },
+  "290": {
+   "trang_thai": "cho"
+  },
+  "291": {
+   "trang_thai": "cho"
+  },
+  "292": {
+   "trang_thai": "cho"
+  },
+  "293": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03167N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W03167N",
+    "p": 0.95,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W03167T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W03167T",
+     "p": 0.917,
+     "hang": 1
+    }
+   ]
+  },
+  "294": {
+   "trang_thai": "cho"
+  },
+  "295": {
+   "trang_thai": "cho"
+  },
+  "296": {
+   "trang_thai": "cho"
+  },
+  "297": {
+   "trang_thai": "cho"
+  },
+  "298": {
+   "trang_thai": "cho"
+  },
+  "299": {
+   "trang_thai": "cho"
+  },
+  "300": {
+   "trang_thai": "cho"
+  },
+  "301": {
+   "trang_thai": "cho"
+  },
+  "302": {
+   "trang_thai": "cho"
+  },
+  "303": {
+   "trang_thai": "cho"
+  },
+  "304": {
+   "trang_thai": "cho"
+  },
+  "305": {
+   "trang_thai": "cho"
+  },
+  "306": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0026.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "D0026",
+    "p": 0.519,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "307": {
+   "trang_thai": "cho"
+  },
+  "308": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03288T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W03288T",
+    "p": 0.86,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W03288N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W03288N",
+     "p": 0.852,
+     "hang": 1
+    }
+   ]
+  },
+  "309": {
+   "trang_thai": "cho"
+  },
+  "310": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03314N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W03314N",
+    "p": 0.767,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W03314T.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "trung",
+     "ma": "W03314T",
+     "p": 0.753,
+     "hang": 1
+    }
+   ]
+  },
+  "311": {
+   "trang_thai": "cho"
+  },
+  "312": {
+   "trang_thai": "cho"
+  },
+  "313": {
+   "trang_thai": "cho"
+  },
+  "314": {
+   "trang_thai": "cho"
+  },
+  "315": {
+   "trang_thai": "cho"
+  },
+  "316": {
+   "trang_thai": "cho"
+  },
+  "317": {
+   "trang_thai": "cho"
+  },
+  "318": {
+   "trang_thai": "cho"
+  },
+  "319": {
+   "trang_thai": "cho"
+  },
+  "320": {
+   "trang_thai": "cho"
+  },
+  "321": {
+   "trang_thai": "cho"
+  },
+  "322": {
+   "trang_thai": "cho"
+  },
+  "323": {
+   "trang_thai": "cho"
+  },
+  "324": {
+   "trang_thai": "cho"
+  },
+  "325": {
+   "trang_thai": "cho"
+  },
+  "326": {
+   "trang_thai": "cho"
+  },
+  "327": {
+   "trang_thai": "cho"
+  },
+  "328": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03642N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W03642N",
+    "p": 0.923,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "329": {
+   "trang_thai": "cho"
+  },
+  "330": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03524.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W03524",
+    "p": 0.95,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "331": {
+   "trang_thai": "cho"
+  },
+  "332": {
+   "trang_thai": "cho"
+  },
+  "333": {
+   "trang_thai": "cho"
+  },
+  "334": {
+   "trang_thai": "cho"
+  },
+  "335": {
+   "trang_thai": "cho"
+  },
+  "336": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03659N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W03659N",
+    "p": 0.935,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "337": {
+   "trang_thai": "cho"
+  },
+  "338": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03085N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W03085N",
+    "p": 0.946,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "339": {
+   "trang_thai": "cho"
+  },
+  "340": {
+   "trang_thai": "cho"
+  },
+  "341": {
+   "trang_thai": "cho"
+  },
+  "342": {
+   "trang_thai": "cho"
+  },
+  "343": {
+   "trang_thai": "cho"
+  },
+  "344": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0002.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "D0002",
+    "p": 0.971,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "345": {
+   "trang_thai": "cho"
+  },
+  "346": {
+   "trang_thai": "cho"
+  },
+  "347": {
+   "trang_thai": "cho"
+  },
+  "348": {
+   "trang_thai": "cho"
+  },
+  "349": {
+   "trang_thai": "cho"
+  },
+  "350": {
+   "trang_thai": "cho"
+  },
+  "351": {
+   "trang_thai": "cho"
+  },
+  "352": {
+   "trang_thai": "cho"
+  },
+  "353": {
+   "trang_thai": "cho"
+  },
+  "354": {
+   "trang_thai": "cho"
+  },
+  "355": {
+   "trang_thai": "cho"
+  },
+  "356": {
+   "trang_thai": "cho"
+  },
+  "357": {
+   "trang_thai": "cho"
+  },
+  "358": {
+   "trang_thai": "cho"
+  },
+  "359": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03961.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W03961",
+    "p": 0.944,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "360": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03615.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W03615",
+    "p": 0.855,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "361": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03959.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W03959",
+    "p": 0.921,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "362": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/D0192T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "D0192T",
+    "p": 0.923,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/D0192N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "D0192N",
+     "p": 0.918,
+     "hang": 1
+    }
+   ]
+  },
+  "363": {
+   "trang_thai": "cho"
+  },
+  "364": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W03990.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W03990",
+    "p": 0.92,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "365": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W04001.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W04001",
+    "p": 0.954,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "366": {
+   "trang_thai": "cho"
+  },
+  "367": {
+   "trang_thai": "cho"
+  },
+  "368": {
+   "trang_thai": "cho"
+  },
+  "369": {
+   "trang_thai": "cho"
+  },
+  "370": {
+   "trang_thai": "cho"
+  },
+  "371": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W04059T.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "trung",
+    "ma": "W04059T",
+    "p": 0.84,
+    "hang": 1
+   },
+   "khac": [
+    {
+     "url": "https://qipedc.moet.gov.vn/videos/W04059N.mp4?autoplay=true",
+     "nguon": "qipedc",
+     "mien": "nam",
+     "ma": "W04059N",
+     "p": 0.834,
+     "hang": 1
+    }
+   ]
+  },
+  "372": {
+   "trang_thai": "cho"
+  },
+  "373": {
+   "trang_thai": "cho"
+  },
+  "374": {
+   "trang_thai": "cho"
+  },
+  "375": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02561.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W02561",
+    "p": 0.777,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "376": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02575N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02575N",
+    "p": 0.895,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "377": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W02576N.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": "nam",
+    "ma": "W02576N",
+    "p": 0.914,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "378": {
+   "trang_thai": "cho"
+  },
+  "379": {
+   "trang_thai": "cho"
+  },
+  "380": {
+   "trang_thai": "cho"
+  },
+  "381": {
+   "trang_thai": "cho"
+  },
+  "382": {
+   "trang_thai": "tot",
+   "chinh": {
+    "url": "https://qipedc.moet.gov.vn/videos/W01208.mp4?autoplay=true",
+    "nguon": "qipedc",
+    "mien": null,
+    "ma": "W01208",
+    "p": 0.964,
+    "hang": 1
+   },
+   "khac": []
+  },
+  "383": {
+   "trang_thai": "cho"
+  },
+  "384": {
+   "trang_thai": "cho"
+  },
+  "385": {
+   "trang_thai": "cho"
+  },
+  "386": {
+   "trang_thai": "cho"
+  },
+  "387": {
+   "trang_thai": "cho"
+  },
+  "388": {
+   "trang_thai": "cho"
+  },
+  "389": {
+   "trang_thai": "cho"
+  },
+  "390": {
+   "trang_thai": "cho"
+  },
+  "391": {
+   "trang_thai": "cho"
+  },
+  "392": {
+   "trang_thai": "cho"
+  },
+  "393": {
+   "trang_thai": "cho"
+  },
+  "394": {
+   "trang_thai": "cho"
+  },
+  "395": {
+   "trang_thai": "cho"
+  },
+  "396": {
+   "trang_thai": "cho"
+  },
+  "397": {
+   "trang_thai": "cho"
+  },
+  "398": {
+   "trang_thai": "cho"
+  },
+  "399": {
+   "trang_thai": "cho"
+  }
+ },
+ "ghi_chu": "Chi dua len web tu \"Khop tot\"; tu khac tam de trong cho nhom xem lai."
+}

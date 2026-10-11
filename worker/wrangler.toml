@@ -1,0 +1,15 @@
+# Chi dung khi dua Worker len bang dong lenh (npx wrangler deploy) hoac chay thu tai may
+# (npm run worker). Dan code tren trang Cloudflare thi tep nay khong co tac dung.
+# KHONG ghi API key vao day — dung: npx wrangler secret put GEMINI_API_KEY
+name = "vslink-meo"
+main = "meo-worker.js"
+compatibility_date = "2026-09-01"
+
+# Gemini tu choi mot so vung ("User location is not supported") -> ep Worker chay o My.
+# Trung voi Settings -> Runtime -> Placement tren trang Cloudflare.
+[placement]
+region = "gcp:us-central1"
+
+[vars]
+# Web that + web chay tai may (npm run dev). Nhieu dia chi thi cach nhau dau phay.
+ALLOWED_ORIGINS = "https://vslinkproject.github.io,https://huthnhng.github.io,http://localhost:5173"
